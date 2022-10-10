@@ -21,3 +21,8 @@ Quicksort
 <br>IT https://www.codingcreativo.it/quicksort-python/
 <br>EN
 https://www.codingcreativo.it/en/python-quicksort/
+<br>
+<br>
+Selection Sort
+<br>IT
+https://www.codingcreativo.it/selection-sort-python/
