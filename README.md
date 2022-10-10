@@ -39,6 +39,13 @@ https://www.codingcreativo.it/selection-sort-python/
 
 <br>
 <br>
-C language
-
-
+**** C language ****
+Selection sort
+<br>IT https://www.codingcreativo.it/selection-sort-c/
+<br>
+Insertion sort
+<br>IT https://www.codingcreativo.it/insertion-sort-c/
+<br>Merge sort
+<br>IT https://www.codingcreativo.it/merge-sort-c/
+<br>Quick sort
+<br>IT https://www.codingcreativo.it/quick-sort-in-c/
