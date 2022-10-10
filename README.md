@@ -40,7 +40,7 @@ https://www.codingcreativo.it/selection-sort-python/
 <br>
 <br>
 **** C language ****
-Selection sort
+<br>Selection sort
 <br>IT https://www.codingcreativo.it/selection-sort-c/
 <br>
 Insertion sort
@@ -49,3 +49,12 @@ Insertion sort
 <br>IT https://www.codingcreativo.it/merge-sort-c/
 <br>Quick sort
 <br>IT https://www.codingcreativo.it/quick-sort-in-c/
+<br>
+<br>
+**** C++ language ****
+<br> Bubble sort
+<br>IT https://www.codingcreativo.it/bubble-sort-in-c/
+<br> Selection sort
+<br>IT https://www.codingcreativo.it/selection-sort-in-c/
+<br>Insertion sort
+<br>IT https://www.codingcreativo.it/insertion-sort-in-c/
