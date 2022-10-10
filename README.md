@@ -2,9 +2,11 @@
 Sorting Algorithms
 
 **** Python ****
-Insertion Sort
-<br>IT
+<br>Insertion Sort
+IT
 https://www.codingcreativo.it/insertion-sort-python/
-EN
+<br> EN
+https://www.codingcreativo.it/en/python-insertion-sort/
+
 Merge Sort
 
