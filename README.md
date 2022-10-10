@@ -23,6 +23,22 @@ Quicksort
 https://www.codingcreativo.it/en/python-quicksort/
 <br>
 <br>
+Bubble Sort
+<br>IT https://www.codingcreativo.it/algoritmo-bubble-sort-python/
+<br>EN https://www.codingcreativo.it/en/bubble-sort-python/
+<br>
+<br>
+Python Sort
+<br>IT https://www.codingcreativo.it/python-sort/
+<br>EN https://www.codingcreativo.it/en/python-list-sort/
+<br>
+<br>
 Selection Sort
 <br>IT
 https://www.codingcreativo.it/selection-sort-python/
+
+<br>
+<br>
+C language
+
+
